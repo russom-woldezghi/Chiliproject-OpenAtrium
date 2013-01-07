@@ -1,4 +1,4 @@
 Chiliproject-Open-Atrium
 ========================
 
-Based on Feedmine module it will extend Feedmine features. 
+Based on Feedmine module it will extend Feedmine features for Open Atrium. 
